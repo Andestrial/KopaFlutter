@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "935386781116",
+    "firebase_url": "https://kopaflutter.firebaseio.com",
+    "project_id": "kopaflutter",
+    "storage_bucket": "kopaflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935386781116:android:51702c377b42382897c7b9",
+        "android_client_info": {
+          "package_name": "com.example.koap_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935386781116-91hgb3oa3hpq6nkq2eb2tkf7eu7skshd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5Wo8wBYT-wIn9f8uL6nTLebof7KX9etI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935386781116-91hgb3oa3hpq6nkq2eb2tkf7eu7skshd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
